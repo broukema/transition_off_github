@@ -12,6 +12,8 @@ How to starting shifting away from [GAFAM/BATX](https://en.wikipedia.org/wiki/GA
 * see https://forgefed.org for the Forge Federation project
 
 Why shift?
-* See https://giveupgithub.org
+* Software Conservancy Foundation: https://giveupgithub.org
+* Dave Gauer: https://ratfactor.com/leaving-github
+* Devine Lu Linvega + community discussion: https://merveilles.town/@neauoire/111007428064776624
 
 
